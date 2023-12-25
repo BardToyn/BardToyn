@@ -27,6 +27,8 @@
   </li>
 </ul>
 <div>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)&nbsp
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
+</div>&nbsp
+<div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-</div>
+</div>&nbsp
