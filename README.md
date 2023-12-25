@@ -4,28 +4,10 @@
 </div>
 
 ### About me
-- Stack ks?sd
+- Love
+- df
+- sdf
+- sdsdsdsd/
 
-<ul>
-  <li>
-    :space_invader:
-    <a href="https://vk.com/bard_toyn">
-      vkontakte
-    </a>
-  </li>
-  <li>
-    :alien:
-    <a href="mailto:blinkdewalker0708@gmail.com">
-      gmail
-    </a>
-  </li>
-  <li>
-    :robot:
-    <a href="https://t.me/EobardThawne1">
-      telegram
-    </a>
-  </li>
-</ul>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BardToyn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BardToyn&theme=2077&utcOffset=8)
