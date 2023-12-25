@@ -5,12 +5,12 @@
 
 <div id="socials" align="center">
   <a href="https://vk.com/bard_toyn">
-    <img src="https://icons8.ru/icon/114452/vk-в-круге" alt="vk" style="max-width:32px; height:auto;">
+    My vk
   </a>
   <a href="mailto:blinkdewalker0708@gmail.com">
-    <img src="" alt="gmail"/>
+    gmail
   </a>
   <a href="https://t.me/EobardThawne1">
-    <img src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" alt="telegram"/>
+    telegram
   </a>
 </div>
