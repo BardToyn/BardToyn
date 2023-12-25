@@ -3,4 +3,14 @@
   <h3>Full Stack Developer from Russia</h3>
 </div>
 
-<a href="#" style="padding: 20px; background-color: blue; color: white;">vkontakte</a>
+<div id="socials" align="center">
+  <a href="your-url">
+    <img src="https://myIcon.ru" alt="vk"/>
+  </a>
+  <a href="your-url">
+    <img src="https://myIcon.ru" alt="gmail"/>
+  </a>
+  <a href="your-url">
+    <img src="https://myIcon.ru" alt="telegram"/>
+  </a>
+</div>
