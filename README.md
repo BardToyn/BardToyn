@@ -3,8 +3,4 @@
   <h3>Full Stack Developer from Russia</h3>
 </div>
 
-<ul>
-  <li>
-    <a href="#" style="padding: 20px; background-color: blue; color: white;">vkontakte</a>
-  </li>
-</ul>
+<a href="#" style="padding: 20px; background-color: blue; color: white;">vkontakte</a>
