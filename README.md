@@ -5,7 +5,7 @@
 
 <div id="socials" align="center">
   <a href="https://vk.com/bard_toyn">
-    <img src="https://icons8.ru/icon/114452/vk-в-круге" alt="vk"/>
+    <img src="https://icons8.ru/icon/114452/vk-в-круге" size="24px" alt="vk"/>
   </a>
   <a href="mailto:blinkdewalker0708@gmail.com">
     <img src="" alt="gmail"/>
