@@ -11,6 +11,6 @@
     <img src="" alt="gmail"/>
   </a>
   <a href="https://t.me/EobardThawne1">
-    <img src="https://myIcon.ru" alt="telegram"/>
+    <img src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" alt="telegram"/>
   </a>
 </div>
