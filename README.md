@@ -3,14 +3,23 @@
   <h3>Full Stack Developer from Russia</h3>
 </div>
 
-<div id="socials" align="center">
-  <a href="https://vk.com/bard_toyn">
-    My vk
-  </a>
-  <a href="mailto:blinkdewalker0708@gmail.com">
-    gmail
-  </a>
-  <a href="https://t.me/EobardThawne1">
-    telegram
-  </a>
-</div>
+<ul>
+  <li>
+    :space_invader:
+    <a href="https://vk.com/bard_toyn">
+      vkontakte
+    </a>
+  </li>
+  <li>
+    :alien:
+    <a href="mailto:blinkdewalker0708@gmail.com">
+      gmail
+    </a>
+  </li>
+  <li>
+    :robot:
+    <a href="https://t.me/EobardThawne1">
+      telegram
+    </a>
+  </li>
+</ul>
