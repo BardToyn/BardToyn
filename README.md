@@ -3,6 +3,9 @@
   <h3>Full Stack Developer from Russia</h3>
 </div>
 
+### About me
+- Stack ks?sd
+
 <ul>
   <li>
     :space_invader:
