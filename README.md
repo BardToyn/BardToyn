@@ -5,7 +5,7 @@
 ### Навигация по репозиториям
 <ul>
   <li>
-    <a href="https://github.com/BardToyn/KotenkovaKoleso">Колесо фортуны для жены</a>
+    <a href="https://github.com/BardToyn/KotenkovaKoleso" target="black_">Колесо фортуны для жены</a>
   </li>
 </ul>
 
