@@ -9,8 +9,6 @@
   </li>
 </ul>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BardToyn&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BardToyn&theme=2077&utcOffset=8)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
